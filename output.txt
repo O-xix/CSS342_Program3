@@ -1,0 +1,11 @@
+class1: PradnyaDhala8 AngieHam7 CesarRuiz6 PiqiTangi7 BillVollmann13 RussellWilson13 
+ERROR::: Duplicate
+Class2: HankAaron3 CesarRuiz6 PiqiTangi7 RussellWilson13 JohnZorn4 
+class1 and 2 Merged: HankAaron3 PradnyaDhala8 AngieHam7 CesarRuiz6 PiqiTangi7 BillVollmann13 RussellWilson13 JohnZorn4 
+Removed from class1, student AngieHam7
+class1: HankAaron3 PradnyaDhala8 BillVollmann13 RussellWilson13 JohnZorn4 
+soccer: MilesDavis65 CesarRuiz6 RussellWilson13 
+soccer += class1 : HankAaron3 MilesDavis65 PradnyaDhala8 CesarRuiz6 BillVollmann13 RussellWilson13 JohnZorn4 
+football: HankAaron3 MilesDavis65 PradnyaDhala8 CesarRuiz6 BillVollmann13 RussellWilson13 JohnZorn4 
+RussellWilson13 is on the football team
+These are the numbers: -1 1 13 
